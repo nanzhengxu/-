@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+我是一只叫天菜的南极企鹅，我住在南极的垃圾岛。唉，现在我们企鹅家族只能住在恶心的垃圾山上。以前我们都能住在舒服的冰上呢！还有，现在每天都有很多的游客在我们旁边拍照，一点都不为企鹅家族着想。而且食物也非常匮乏，海里面的大部分鱼都因为食用垃圾而去世了，我们经常饥肠辘辘。每天都会有垃圾漂到我们的陆地上，连人类科学家都说照这样发展，到3500年的时候垃圾的数量就会超过鱼的数量了。所以请人类朋友们不要总是乱扔垃圾，让我们共同的家——地球，保持“绿色”。
+![lajiyu](../pic/lajiyu.jpeg)
 
-You can use the [editor on GitHub](https://github.com/nanzhengxu/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nanzhengxu/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
